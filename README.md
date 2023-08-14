@@ -13,12 +13,12 @@ If you use our dataset please cite:
 
 @misc{mammogram-ultrasound-dataset,
   title = {Mammogram-Ultrasound Dataset},
-  author = {Sahar Almahfouz Nasser and Amruta Mahendra Paruleka and Anmol Saraf and Ashutosh Sharma and Amit Sethi},
+  author = {Sahar Almahfouz Nasser and Amruta Mahendra Parulekar and Anmol Saraf and Ashutosh Sharma and Amit Sethi},
   year = {2023},
   howpublished = {\url{https://www.dropbox.com/sh/etscrjgxqsrr4kr/AADp3wBDSo2DQmmaWU7m1jwpa?dl=0}},
 }
 
 Or
-Sahar Almahfouz Nasser, Amruta Mahendra Paruleka, Anmol Saraf, Ashutosh Sharma, and Amit Sethi. 2023. "Mammogram-Ultrasound Dataset". Available at: https://www.dropbox.com/sh/etscrjgxqsrr4kr/AADp3wBDSo2DQmmaWU7m1jwpa?dl=0.
+Sahar Almahfouz Nasser, Amruta Mahendra Parulekar, Anmol Saraf, Ashutosh Sharma, and Amit Sethi. 2023. "Mammogram-Ultrasound Dataset". Available at: https://www.dropbox.com/sh/etscrjgxqsrr4kr/AADp3wBDSo2DQmmaWU7m1jwpa?dl=0.
 
 
